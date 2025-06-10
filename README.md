@@ -1,7 +1,3 @@
-# AirlineComplaint_GenAI_Responder
-Classifies airline complaint tweets using BERT and generates tailored responses via GenAI.
-
-
 # ✈️ Airline Complaint Classification & GenAI-Based Response Generation
 
 A real-world NLP + GenAI project focused on classifying airline complaints from Twitter and generating realistic, context-aware responses using a text-generation model.
