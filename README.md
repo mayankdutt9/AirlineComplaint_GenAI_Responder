@@ -20,6 +20,7 @@ Inspired by real airline customer support systems — built as part of my data s
 - Used **BERT** (`bert-base-uncased`) model for multi-class classification  
 - Custom **response generation pipeline** using Hugging Face GenAI tools  
 - Evaluation with classification report and label-wise metrics
+- Final text generation was done using the Zephyr model for better, more natural response quality.
 
 ---
 
